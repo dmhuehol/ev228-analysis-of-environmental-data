@@ -27,6 +27,6 @@ To add a figure, include the figure in your repository and push it to Github. Th
 
 For the image below, the link on its own is https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png. To add the image, we start the link at /images/xkcd-1349.png.  
 
-![image](https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png)
+![image](https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png)  
 *Caption: Here is a caption*
 
