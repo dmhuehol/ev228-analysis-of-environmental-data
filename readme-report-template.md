@@ -21,8 +21,7 @@ Make a list using asterisks:
 * Item 3
 
 ### Adding a figure
-To add a figure, include the figure in your repository and push it to Github. Then, open the image from your repository on GitHub on the web. Copy the link and link to it similar to a normal link *except*:
-* Add an exclamation point ! before the bracket
+To add a figure, include the figure in your repository and push it to Github. Then, open the image from your repository on GitHub on the web. Copy the link and link to it similar to a normal link *except* add an exclamation point ! before the bracket.
 
 ![image](https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png)  
 *Caption: Here is a caption. To get the caption under the image, add a line break at the end of the link*
