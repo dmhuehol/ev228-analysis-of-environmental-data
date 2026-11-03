@@ -21,10 +21,12 @@ Make a list using asterisks:
 * Item 3
 
 ### Adding a figure
-To add a figure, include the figure in your repository and push it to Github. Then, open the image from your repository on GitHub on the web. Copy the link and link to it similar to a normal link *except* start the link with the first / after "main".  
+To add a figure, include the figure in your repository and push it to Github. Then, open the image from your repository on GitHub on the web. Copy the link and link to it similar to a normal link *except*:
+* Start the link beginning at the first / after "main".  
+* Add an exclamation point ! before the bracket
 
 For the image below, the link on its own is https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png. To add the image, we start the link at /images/xkcd-1349.png.  
 
-[image](/images/xkcd-1349.png)
+![image](https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png)
 *Caption: Here is a caption*
 
