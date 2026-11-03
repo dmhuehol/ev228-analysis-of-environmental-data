@@ -13,10 +13,18 @@ The text that is inside the square brackets will be the text that is displayed.
 
 ## New Analysis
 ### Subsection
-Progressively more hashtag symbols allow you to add progressively smaller subsections. 
-### Adding a figure
-To add a figure, include the figure in your repository and push it to Github. Then, open the image from your repository on GitHub on the web. Copy the link and link to it as you would any other link.  
+Progressively more hashtag symbols allow you to add progressively smaller subsections.  
 
-[image](https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png)
+Make a list using asterisks:
+* Item 1
+* Item 2
+* Item 3
+
+### Adding a figure
+To add a figure, include the figure in your repository and push it to Github. Then, open the image from your repository on GitHub on the web. Copy the link and link to it similar to a normal link *except* start the link with the first / after "main".  
+
+For the image below, the link on its own is https://github.com/dmhuehol/ev228-analysis-of-environmental-data/blob/main/images/xkcd-1349.png. To add the image, we start the link at /images/xkcd-1349.png.  
+
+[image](/images/xkcd-1349.png)
 *Caption: Here is a caption*
 
